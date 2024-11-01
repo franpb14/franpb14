@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi there! I'm Fran
+I love leveraging my skills to bring innovative projects to life.
 
-<!--
-**franpb14/franpb14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Tech Stack
+- **Frontend:** JavaScript (Vanilla, Ralix), HTML5, SASS, Tailwind
+- **Backend:** Ruby on Rails
 
-Here are some ideas to get you started:
+## 🐾 When I’m not coding
+- I enjoy spending time outdoors with my beloved ones.
+- I love chess & piano
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me
+Feel free to connect! I'm always open to discussing projects, technology trends, and exchanging ideas
+- **Email:** franperejonbarrios@gmail.com
+
